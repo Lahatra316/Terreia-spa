@@ -2,6 +2,8 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   /* config options here */
+  devIndicators: false, // <-- Ajouté ici pour enlever le "N" orange
+  
   experimental: {
     agentFeedback: true,
   },
