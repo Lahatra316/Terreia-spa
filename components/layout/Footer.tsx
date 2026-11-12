@@ -156,7 +156,7 @@ export default function Footer() {
         {/* Bottom Bar (Copyright & Legal) */}
         <div className="pt-space-lg flex flex-col md:flex-row items-center justify-between gap-space-md border-t border-outline-variant/30">
           <div className="font-label-md text-label-md text-tertiary text-center md:text-left">
-            © 2024 Terreia Spa Sanctuaire. Tous droits réservés. L'art du répit intérieur.
+            © Terreia Spa Sanctuaire. Tous droits réservés. L'art du répit intérieur.
           </div>
           <div className="flex flex-wrap justify-center items-center gap-x-space-lg gap-y-2">
             <Link href="/mentions-legales" className="font-label-md text-label-md text-tertiary hover:text-on-surface transition-colors">

@@ -41,10 +41,6 @@ export default function Hero() {
                 style={{ filter: "brightness(0) invert(1)" }} 
               />
               
-              <div className="mt-6 flex items-center gap-2">
-                <Sparkles className="w-4 h-4 text-secondary-fixed" />
-                <span className="font-label-sm text-label-sm uppercase tracking-[0.25em] text-secondary-fixed">Depuis 2018</span>
-              </div>
             </div>
 
             {/* Badge de localisation */}
